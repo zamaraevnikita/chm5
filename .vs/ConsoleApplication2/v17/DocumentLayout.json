@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C69432D6-8B72-42C7-924D-8BFE03584B46}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C69432D6-8B72-42C7-924D-8BFE03584B46}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69432D6-8B72-42C7-924D-8BFE03584B46}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C69432D6-8B72-42C7-924D-8BFE03584B46}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69432D6-8B72-42C7-924D-8BFE03584B46}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C69432D6-8B72-42C7-924D-8BFE03584B46}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Output.txt",
+              "DocumentMoniker": "C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Output.txt",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Output.txt",
+              "ToolTip": "C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Output.txt",
+              "RelativeToolTip": "ConsoleApplication2\\Output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-06T15:25:20.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\input.txt",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\input.txt",
+              "ToolTip": "C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\input.txt",
+              "RelativeToolTip": "ConsoleApplication2\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-06T15:16:00.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication2.cpp",
+              "DocumentMoniker": "C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ToolTip": "C:\\Users\\nikza\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ViewState": "AQIAABUBAAAAAAAAAAAiwCcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T15:15:33.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
